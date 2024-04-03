@@ -3,7 +3,7 @@ This is an E-Voting Dapp
 
 You need to Install the Latest Version of Ganache and Metamask
 For MetaMask:
-Create a account and remeber the password, also save the Codes they will give you to recover your account
+Create a account and remember the password, also save the Codes they will give you to recover your account
 *Note* Do not share the codes with anyone as it is confidential.
 
 Now Open your metamask extension -> In top left corner you will see a small drop down, Click on that
